@@ -11,3 +11,33 @@ code {
   font-family: source-code-pro, Menlo, Monaco, Consolas, 'Courier New',
     monospace;
 }
+
+/* ID COMPONENT */
+
+.id-card{
+  border: 1px solid black;
+  margin:10px;
+  padding: 5px;
+  display: flex;
+  flex-direction: row;
+}
+
+.id-card img{
+  padding-right: 5px;
+}
+
+/* LANGUAGE */
+.lang {
+  border: 1px solid black;
+  padding: 15px;
+  margin: 10px;
+}
+
+
+.random{
+  border: 1px solid black;
+  padding: 10px;
+  margin: 10px;
+}
+
+/* BOX COLOR */

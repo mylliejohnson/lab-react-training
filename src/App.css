@@ -36,3 +36,20 @@
     transform: rotate(360deg);
   }
 }
+
+.grey{
+  background-color: grey;
+  color: white;
+}
+
+.yellow{
+  background-color: #ddbb55;
+}
+
+.light{
+  background-color: #eeeeee;
+}
+
+.ccStyles ul {
+  list-style-type: none;
+}
