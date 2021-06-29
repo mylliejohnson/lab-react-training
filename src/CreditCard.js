@@ -1,7 +1,7 @@
 function CreditCard(props){
     return (
-        <div className="ccStyles">
-            <ul className={"styles", `${props.bgColor}`}>
+        <div className={`${props.bgColor}`}>
+            <ul>
                 <li>{props.type}</li>
                 <li>{props.number}</li>
                 <li>{props.expirationMonth}</li>
